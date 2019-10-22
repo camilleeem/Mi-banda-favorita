@@ -1,0 +1,88 @@
+body {
+    background-color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.nombre-banda {
+    color: antiquewhite;
+    text-align: left;
+    font-size: 250%;
+    padding-left: 1%
+}
+
+.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(105, 105, 105);
+}
+
+.nav li {
+    float: left;
+}
+
+.nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 26px;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.nav li a:hover {
+    color: black;
+    background-color: rgb(73, 73, 73);
+}
+
+.active {
+    background-color: rgb(73, 73, 73);
+}
+
+footer {
+    border-top: 1px solid white;
+}
+
+.copy {
+    text-align: center;
+    color: white;
+}
+
+.divtitulo {
+    padding-left: 40%;
+    padding-right: 40%;
+}
+
+.divbio {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.divbio p {
+    color: rgba(255, 255, 255, 0.733);
+    font-size: 120%;
+    text-align: justify;
+}
+
+.divintegrantes{
+
+    padding-left: 700px;   
+}
+
+li {
+    color: white;
+}
+
+aside {
+    display: inline;
+}
+
+.divintegrantes{
+    display
+    margin: auto;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+
